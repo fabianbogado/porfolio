@@ -124,13 +124,20 @@ footer .fa-brands{
 }
 @media (max-width: 750px){
     #contacto{
-        background-image: url('../imagenes/fondo-contacto.png');
+        background-image: url('../imagenes/fondo-proyectos.png');
         background-repeat: no-repeat;
         background-size: 100%;
     }
 }
 @media (max-width: 750px){
     #proyectos{
+        background-image: url('../imagenes/fondo-proyectos.png');
+        background-repeat: no-repeat;
+        background-size: 100%;
+    }
+}
+@media (max-width: 750px){
+    #Inicio{
         background-image: url('../imagenes/fondo-proyectos.png');
         background-repeat: no-repeat;
         background-size: 100%;
