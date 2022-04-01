@@ -34,6 +34,7 @@ body{
     font-weight: 600;
 }
 
+}
 nav .active{
     
     border-radius: 15px;
@@ -81,7 +82,7 @@ font-weight: 100;
 .proyecto h2{
     font-size: 16px;
     color: white;
-    text-align: center;
+    text-align: left;
     background-color: #e20000;
 }
 .proyecto{
@@ -116,12 +117,26 @@ footer ,footer a{
 }
 .fa-whatsapp{
     font-size: 32px;
-    color: white;
+    color: rgb(252, 252, 252);
 }
 }   
 footer .fa-brands{
     font-size: 30px;
     color: white;
+}
+#proyectos .fa-github{
+    font-size: 30px;
+    color:#e20000;
+}
+#proyectos .fa-linkedin{
+    font-size: 30px;
+    color: #e20000;
+}
+#proyectos footer, #proyectos footer a, #sobre-mi footer, #sobre-mi footer a {
+    color: #E20000;
+}
+footer, footer a {
+    font-weight: 100;
 }
 @media (max-width: 750px){
     #contacto{
