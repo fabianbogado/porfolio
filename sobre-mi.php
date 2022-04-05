@@ -45,3 +45,22 @@
             </div>
         </nav>
     </header>
+    <main>
+
+    </main>
+    <footer class="container mt-5">
+        <div class="row">
+            <div class="col-12 col-sm-3">
+                <i class="fa-brands fa-github"></i>
+                <i class="fa-brands fa-linkedin"></i>
+            </div>
+            <div class="col-12 col-sm-3">Sponsor <a href="https.//depcsuite.com">De PC Suite</a></div>
+            <div class="col-12 col-sm-3"><a href="mailto:contacto@fabicrack218.com.ar">contacto@fabicrack218.com.ar</a>
+            </div>
+
+        </div>
+        
+    </footer>
+    <div class="whatsapp">
+            <a href="https://api.whatsapp.com/send?phone=5411250604417"><i class="fa-brands fa-whatsapp"></i></a>
+    </div>

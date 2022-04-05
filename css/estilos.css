@@ -13,7 +13,11 @@ body {
     background-size: 100%;
     background-repeat: no-repeat;
 }
-
+#sobre-mi{
+    background-image: url('../imagenes/fondo-proyectos.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
 #Inicio {
     background-image: url('../imagenes/fondo-contacto.png');
     background-size: 100%;
@@ -83,7 +87,7 @@ textarea {
     text-align: left;
     background-color: #e20000;
 }
-.proyecto {
+.proyecto{
     border: 1px solid #eee;
     background-color: white;
 }
