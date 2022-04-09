@@ -14,11 +14,10 @@
 </head>
 
 <body id="sobre mi">
-    <header>
+    <header class="container">
         <nav class="navbar navbar-expand-md  mb-4">
             <div class="container-fluid">
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse"
-                    aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                     <i class="fa-solid fa-bars"></i>
                 </button>
@@ -38,14 +37,30 @@
                         </li>
                     </ul>
                     <div class="d-flex">
-                        <a class="btn btn-outline-success" type="submit">Descargar mi CV <i
-                                class="fa-solid fa-download"></i></a>
+                        <a class="btn btn-outline-success" type="submit">Descargar mi CV <i class="fa-solid fa-download"></i></a>
                     </div>
                 </div>
             </div>
         </nav>
     </header>
-    <main>
+    <main class="container">
+        <div class="row">
+            <div class="col-12 col-sm-5">
+                <div>
+                    <h1>Sobre mi</h1>
+                    <p>Apasionado por la tecnología y gestión de proyectos. Soy docente de cursos de programación Full Stack y de Base de datos.</p>
+                    <a href="contacto.php" class="btn btn-outline-success">Enviar mensaje</a>
+                </div>
+                <div class="col-12 col-sm-4">
+                    <img src="" alt="">
+
+
+                </div>
+
+
+            </div>
+
+        </div>
 
     </main>
     <footer class="container mt-5">
@@ -59,8 +74,8 @@
             </div>
 
         </div>
-        
+
     </footer>
     <div class="whatsapp">
-            <a href="https://api.whatsapp.com/send?phone=5411250604417"><i class="fa-brands fa-whatsapp"></i></a>
+        <a href="https://api.whatsapp.com/send?phone=5411250604417"><i class="fa-brands fa-whatsapp"></i></a>
     </div>
