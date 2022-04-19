@@ -58,7 +58,7 @@
                                                                                                                                         display: block;
                                                                                                                                         background-color: #fff;
                                                                                                                                         padding: 10px;">
-                    </div>
+                    </div> <!--no me tomaba el css-->
 
         </div>
 
