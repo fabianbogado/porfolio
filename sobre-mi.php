@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="css/estilos.css">
 </head>
 
-<body id="sobre mi">
+<body id="sobre-mi">
     <header class="container">
         <nav class="navbar navbar-expand-md  mb-4">
             <div class="container-fluid">
@@ -46,19 +46,19 @@
     <main class="container">
         <div class="row">
             <div class="col-12 col-sm-5">
-                <div>
-                    <h1>Sobre mi</h1>
-                    <p>Apasionado por la tecnología y gestión de proyectos. Soy docente de cursos de programación Full Stack y de Base de datos.</p>
-                    <a href="contacto.php" class="btn btn-outline-success">Enviar mensaje</a>
-                </div>
-                <div class="col-12 col-sm-4">
-                    <img src="" alt="">
-
-
-                </div>
-
-
+                    <div>
+                        <h1>Sobre mi</h1>
+                            <p>Amante de la computadoras, curioso por las cosas nuevas y la tecnologia, Estudiante actualmente de programacion Full stack. </p>
+                                <a href="contacto.php" class="btn btn-outline-success">Enviar mensaje</a>
             </div>
+                    </div>
+                    <div class="col-sm-3 col-12 mt-4 offset-sm-2">
+                        <img src="imagenes/fabian-bogado.jpg" alt="Fabian bogado" title="Fabian bogado"class="img-fluid img-circle" style=
+                                                                                                                                        "border-radius: 50%;    margin: 1em auto;
+                                                                                                                                        display: block;
+                                                                                                                                        background-color: #fff;
+                                                                                                                                        padding: 10px;">
+                    </div>
 
         </div>
 
