@@ -1,3 +1,6 @@
+<?php 
+$pg = "contacto";
+?>
 <!DOCTYPE html>
 <html lang="es">
 
@@ -14,9 +17,9 @@
 </head>
 
 <body id="contacto">
-    
+
     <?php include_once("header.php") ?>
- 
+
     <main class="container">
         <div class="row">
             <div class="col-12 mt-3 mb-5">
